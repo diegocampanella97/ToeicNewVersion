@@ -1,0 +1,34 @@
+{
+  "sessions": [
+    {
+      "date": "2025-03-20 18:07",
+      "questions": [
+        {
+          "sentence": "The tour guide recommended taking a stroll through the ___ during our visit.",
+          "user_answer": "C",
+          "correct_answer": "B",
+          "is_correct": false,
+          "topic": "Tourism"
+        },
+        {
+          "sentence": "Due to the traffic jam, we were ___ to take a different route.",
+          "user_answer": "D",
+          "correct_answer": "D",
+          "is_correct": true,
+          "topic": "Transportation"
+        },
+        {
+          "sentence": "One key strategy in sales is upselling which encourages customers to purchase ____ versions of a product.",
+          "user_answer": "B",
+          "correct_answer": "B",
+          "is_correct": true,
+          "topic": "Sales and marketing"
+        }
+      ],
+      "correct": 2,
+      "total": 3
+    }
+  ],
+  "total_correct": 2,
+  "total_questions": 3
+}
