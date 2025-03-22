@@ -1,0 +1,47 @@
+{
+  "sessions": [
+    {
+      "date": "2025-03-22 13:49",
+      "exercises": [
+        {
+          "scene_title": "Busy Office",
+          "scene_type": "Office",
+          "word1": "but",
+          "word1_type": "Coordinating conjunction",
+          "word2": "menu",
+          "word2_type": "Noun",
+          "image_path": "toeic_images/20250322_135001_office.png",
+          "user_sentence": "They are working in the office, but someone is taking a coffee",
+          "grammar_score": 4,
+          "word_usage_score": 2,
+          "relevance_score": 3,
+          "overall_score": 3,
+          "improved_sentence": "Everyone in the office is busy with their tasks, but someone is at the kitchenette selecting options from the coffee machine menu."
+        }
+      ],
+      "average_score": 3.0
+    },
+    {
+      "date": "2025-03-22 13:52",
+      "exercises": [
+        {
+          "scene_title": "Busy Restaurant at Lunchtime",
+          "scene_type": "Restaurant",
+          "word1": "but",
+          "word1_type": "Coordinating conjunction",
+          "word2": "unless",
+          "word2_type": "Subordinating conjunction",
+          "image_path": "toeic_images/20250322_135232_restaurant.png",
+          "user_sentence": "there are a lot of people but ",
+          "grammar_score": 2,
+          "word_usage_score": 1,
+          "relevance_score": 3,
+          "overall_score": 2,
+          "improved_sentence": "There are a lot of people, but the restaurant won\u2019t be able to accommodate more customers unless more seating arrangements are made."
+        }
+      ],
+      "average_score": 2.0
+    }
+  ],
+  "total_exercises": 2
+}

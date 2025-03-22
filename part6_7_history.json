@@ -1,0 +1,44 @@
+{
+  "sessions": [
+    {
+      "date": "2025-03-22 14:11:45",
+      "context": "Random",
+      "responses": [
+        {
+          "scenario": {
+            "email_subject": "Job Posting Revisions",
+            "sender_name": "Samantha Mallory",
+            "sender_position": "Director of HR",
+            "recipient_name": "Test Taker",
+            "recipient_position": "Recruitment Specialist",
+            "email_body": "Hello, I need your advice on a recent job posting for the Project Manager position. I've gotten feedback from potential candidates that our ad isn't attracting the right sort of applicants. Firstly, the job description seems too vague, people have told us that they can't clearly understand the job's day-to-day tasks and responsibilities. Secondly, the specified qualifications section is currently dissuading quality candidates as they feel overqualified for the position. This is something we need to consider when revising the ad. Therefore, I'm hoping you can come up with some practical suggestions to better attract the right candidates for the job. Also, could you consider whether we are asking too much or too little in terms of qualifications and experience? We need to get this fixed ASAP. Thanks!",
+            "context": "Job ads and applications",
+            "tasks": [
+              "Make TWO suggestions.",
+              "Explain TWO problems.",
+              "Ask ONE question."
+            ],
+            "key_points": [
+              "Recommend specific improvements for the job description and qualifications.",
+              "Discuss the vague job description issue.",
+              "Talk about the problem with the qualifications section."
+            ],
+            "sample_response": "Hello Samantha, I appreciate your concern about the job ad for the Project Manager position. I agree that the job description should clearly define the day-to-day tasks to manage expectations and attract the right candidates. Firstly, I suggest we detail the requirements by including the types of projects the manager will be handling as well as the size of the team they'll oversee. Secondly, for the qualifications section, we could list desired 'essential' and 'preferred' skills. This way, highly qualified candidates won't feel overqualified. The two main issues, as you pointed out are, the vagueness of the job description and the high demand for qualifications. These might deter applicants who might be a perfect fit for the job. Do you think adding a salary range might help attract better candidates, or would this be counterproductive in your opinion?"
+          },
+          "user_response": "lll\n",
+          "scores": {
+            "task_completion_score": 3,
+            "organization_score": 3,
+            "sentence_variety_score": 3,
+            "grammar_score": 3,
+            "vocabulary_score": 3,
+            "overall_score": 3
+          },
+          "feedback": "Unable to provide detailed overall feedback. Please try again."
+        }
+      ],
+      "average_score": 3.0
+    }
+  ],
+  "total_responses": 1
+}
