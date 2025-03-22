@@ -1,0 +1,39 @@
+{
+  "sessions": [
+    {
+      "date": "2025-03-22 14:39:05",
+      "topic": "Random",
+      "essay_type": "Random",
+      "essays": [
+        {
+          "prompt": {
+            "essay_prompt": "Leisure time activities are crucial in maintaining our physical and mental health. They allow us to de-stress, refresh and recharge. Explain the importance of leisure time activities in contributing to a well-rounded life.",
+            "topic": "Leisure time activities",
+            "essay_type": "Explain the importance",
+            "key_points": [
+              "The impact of leisure activities on physical health",
+              "The benefits of leisure time on mental health and stress reduction",
+              "Contributions of leisure activities to social interactions",
+              "Importance of balance between work/study and leisure activities",
+              "How leisure activities lead to a well-rounded life"
+            ],
+            "suggested_structure": "Introduction, The impact of leisure activities on physical health, The benefits of leisure time on mental health and stress reduction, Contributions of leisure activities to social interactions, Importance of balance between work/study and leisure activities, Conclusion",
+            "sample_essay": "Leisure time activities is a necessary component in our life that helps form a balanced lifestyle. They have a profound impact on our physical and mental health. Physical activities, such as sports or hiking, enhance our stamina and cardiovascular health. Moreover, these activities also does wonders for maintaining a healthy weight. \nMental health reaps the rewards of leisure activities as well. Engaging in hobbies or recreational activities can reduce stress and improve overall mood. In today's fast-paced world, having this time to breathe is undoubtedly advantageous. \nBesides fostering health, leisure activities often enhance our social interactions. Whether it be team sports, book clubs, or community service events, these activities allow us to interact with others, forming and cultivating relationships. \nYet, the significance of balance between these leisure activities and work/study cannot be overlooked. Children and adults alike need to understand the value of allocating appropriate time for work, study, and leisure. This principle leads to maximizing productivity while avoiding burn-out and maintaining health. \nIn conclusion, leisure time activities are imperative to leading a fulfilling, well-rounded life. They maintain our physical and mental health as well as supplement our social interactions, all while ensuring a healthy balance between work and relaxation."
+          },
+          "user_essay": "\n",
+          "scores": {
+            "organization_score": 1,
+            "development_score": 1,
+            "coherence_score": 1,
+            "grammar_score": 1,
+            "vocabulary_score": 1,
+            "overall_score": 1
+          },
+          "feedback": "From what has been submitted, there is nothing written in the essay. The student has not attempted to answer the given prompt. Please provide an essay that adheres to the given prompt which discusses the importance of leisure time activities in contributing to a well-rounded life."
+        }
+      ],
+      "average_score": 1.0
+    }
+  ],
+  "total_essays": 1
+}
